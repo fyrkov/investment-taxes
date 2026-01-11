@@ -1,4 +1,4 @@
-# General info about taxes
+# General info about taxes on investments
 
 Investment income in Germany is taxed with:
 

@@ -27,13 +27,18 @@ The following inputs directly impact the calculation of investment taxes in Germ
 
 ### Chapters
 
-1. [General info about taxes](docs/general_info.md)
-2. [Person state](docs/person_state.md)
-3. [Loss pots](docs/loss_pots.md)
-4. [Freistellungsauftrag (FSA), Sparer-Pauschbetrag, Exemption Order](docs/fsa.md)
-5. [Teilfreistellung (Partial Exemption)](docs/partial_exemption.md)
-6. [📈 Vorabpauschale (VOPA) - Advance Flat-Rate Tax](docs/vopa.md)
-7. [Crypto assets](docs/crypto.md)
+1. [General info about taxes](docs/general_taxation_info.md)
+2. [General info about trading](docs/general_trading_info.md)
+3. [Person state](docs/person_state.md)
+   - [Loss pots](docs/loss_pots.md)
+   - [Freistellungsauftrag (FSA), Sparer-Pauschbetrag, Exemption Order](docs/fsa.md)
+   - [US taxes](docs/us_taxes.md)
+4. [Teilfreistellung (Partial Exemption) on certain assets](docs/partial_exemption.md)
+5. [📈 Vorabpauschale (VOPA) - Advance Flat-Rate Tax](docs/vopa.md)
+6. [Crypto assets](docs/crypto.md)
+7. [Transfers](docs/transfers.md)
+8. [Withholding Taxes](docs/withholding_taxes.md)
+9. [Corporate Actions.md](docs/corporate_actions.md)
 
 
  
